@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###⭐I'm Felix Yang
+##⭐I'm Felix Yang
 
 🔍技术方向：AI，Blockchain，嵌入式，算法
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-robot)
 
-###置顶项目Samples：包含通过卷积神经网络实现的手写数字识别、个人博客网页以及基础算法等基础项目
+##置顶项目Samples：包含通过卷积神经网络实现的手写数字识别、个人博客网页以及基础算法等基础项目
 
 
 
