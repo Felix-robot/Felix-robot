@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felix-robot)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-robot)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Felix-robot&repo=Samples)
+
 
 
 
