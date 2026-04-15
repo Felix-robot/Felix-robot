@@ -15,12 +15,34 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⭐I'm Felix Yang
+## Hi, I'm Felix Yang 👋
 
-🔍技术方向：AI，Blockchain，嵌入式，算法
+🎓 HUST Robotics Engineering, Class of 2028  
 
-🌴兴趣爱好：羽毛球，跑步，露营
+🤖 Member of HUST HRT Humanoid Robot Team (algorithm + embedded systems)  
+🧠 Member of HUST UniCreate AI Group (sole freshman selected)
 
+### Research Interests
+I'm interested in **Robot Learning**, **Robot Foundation Models**, 
+and **World Models**.
+
+### Recent Projects
+- 🔬 **[Prompt-DT Reproduction](https://github.com/Felix-robot/prompt-dt-reproduction)**: 
+  Reproduced Prompt-DT (ICML 2022) on local GPU, verified training on 
+  cheetah_dir with MuJoCo.
+- 🏃 **[MuJoCo PPO/SAC Demo](https://github.com/Felix-robot/mujoco-ppo-sac-demo)**: 
+  End-to-end RL training pipeline with Stable-Baselines3 on MuJoCo 
+  continuous control tasks.
+
+### Skills
+**Languages**: Python, C/C++  
+**ML/RL**: PyTorch, Stable-Baselines3, MuJoCo, Gymnasium  
+**Robotics**: ROS , Embedded Systems (STM32, ESP32, etc.)  
+**Tools**: Git, Linux, LaTeX, TensorBoard
+
+🌴Hobbies：Badminton, Running, Camping
+
+📫 How to reach me: sp1keyan9@gmail.com
 
 | 编程语言 | 框架与库 | 开发工具 |
 | :--- | :---: | ---: |
