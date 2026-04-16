@@ -40,8 +40,6 @@ and **World Models**.
 **Robotics**: ROS , Embedded Systems (STM32, ESP32, etc.)  
 **Tools**: Git, Linux, LaTeX, TensorBoard
 
-🌴Hobbies：Badminton, Running, Camping
-
 📫 How to reach me: sp1keyan9@gmail.com
 
 
